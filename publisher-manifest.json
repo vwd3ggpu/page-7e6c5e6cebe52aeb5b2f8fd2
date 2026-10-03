@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1afab37133a78ca7af6c0a3f",
+  "owner": "vwd3ggpu",
+  "repo": "page-7e6c5e6cebe52aeb5b2f8fd2",
+  "title": "Eden",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7e6c5e6cebe52aeb5b2f8fd2",
+      "a": "Eden",
+      "b": "",
+      "entity": "Eden",
+      "brand": "Eden",
+      "separator": "",
+      "path": "index.html",
+      "hash": "386ff46baf5a7def3f544cefb8a8d74a84d362718b3643cca8327e2ba4801337",
+      "content": {
+        "keyword1": "Eden",
+        "keyword2": "",
+        "primary_entity": "Eden",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Eden 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、原生流媒体与游戏加速，欢迎访问官网选购套餐并获取官方下载。",
+          "AI_DESCRIPTION": "Eden 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、原生流媒体与游戏加速，欢迎访问官网选购套餐并获取官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#FFF8F3;color:#2B2B2B;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif;font-size:16px;line-height:1.7}*{box-sizing:border-box}a{color:#D4523E;text-decoration:none}a:hover{text-decoration:underline}header,footer{background:#FFF1EA;border-bottom:1px solid #F0D4C8}footer{border-top:1px solid #F0D4C8;border-bottom:none;margin-top:48px}header .wrap,footer .wrap,main{max-width:1080px;margin:0 auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}nav a{color:#3A3A3A;font-weight:600}h1{font-size:2rem;margin:8px 0 12px;color:#C44536}h2{font-size:1.45rem;margin:28px 0 12px;color:#C44536}h3{font-size:1.12rem;margin:16px 0 8px;color:#8A3B2E}.lead{font-size:1.05rem}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start;margin:24px 0;padding:18px;background:#FFFFFF;border:1px solid #F3D8CE;border-radius:12px}.stagger .block{flex:1;min-width:260px}.stagger.reverse{flex-direction:row-reverse}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:12px 0 8px}.plan{flex:1;min-width:250px;background:#FFFFFF;border:1px solid #EED3C8;border-radius:12px;padding:18px}.plan.featured{border:3px solid #E85A4F;background:#FFF3EE;box-shadow:0 0 0 1px #E85A4F inset}.price{font-size:1.35rem;font-weight:700;color:#C44536}.annual{color:#6B4A42;font-size:0.95rem}.feat{padding-left:18px;margin:8px 0}.btn{display:inline-block;background:#E85A4F;color:#fff;padding:10px 16px;border-radius:8px;font-weight:700}.btn:hover{text-decoration:none;background:#D4523E}details{background:#FFFFFF;border:1px solid #EED3C8;border-radius:10px;padding:10px 14px;margin:10px 0}summary{cursor:pointer;font-weight:700;color:#8A3B2E}ul,ol{padding-left:20px}.ad{background:#FFE8E0;border:1px dashed #E85A4F;border-radius:10px;padding:14px;margin:20px 0}.friends a{margin-right:12px;display:inline-block;margin-bottom:8px}@media (max-width:720px){.stagger,.stagger.reverse{flex-direction:column}h1{font-size:1.7rem}header .wrap,footer .wrap,main{padding:14px}nav{font-size:0.95rem}}</style><header><div class=\"wrap\"><nav><a href=\"#home\">Eden 官网</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main id=\"home\"><h1>Eden</h1><p class=\"lead\">Eden 官方网站面向需要稳定跨境访问的用户，提供机场订阅、VPN 梯子网络加速与多端客户端下载。我们把线路质量、流媒体解锁和设备兼容放在首位，帮助你在学习、办公、娱乐与游戏中获得可预期的连接体验。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"block\"><p>Eden 是专注网络加速的官方服务平台。用户可通过官网选购月付或年付套餐，获取订阅地址后导入主流客户端，即可按节点策略访问国际网站、学术资源与流媒体内容。</p><p>服务定位清晰：不是堆砌空泛宣传，而是把流量配额、同时在线设备数、原生流媒体与 IPLC 游戏线路写进套餐说明，让选择可对照、可执行。官方下载入口与配置步骤集中在本页，避免来源不明的安装包。</p></div><div class=\"block\"><h3>官方身份与服务边界</h3><p>Eden 以订阅制提供加速能力，强调隐私最小化采集与工单响应。节点覆盖常用地区，线路包含常规优化与专线。旗舰与团队套餐面向更高并发、游戏与企业路由需求。所有价格与配额以本页套餐对比为准。</p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"block\"><h3>流媒体与内容访问</h3><p>观看国际影视、直播与音乐平台时，基础版可解锁常见内容，旗舰版强调全节点原生流媒体。建议在客户端中为视频域名单独分流，减少高峰拥堵对画质的影响。</p><h3>学习科研与远程办公</h3><p>文献数据库、代码托管、会议软件与云盘同步依赖稳定握手与合理延迟。Eden 适合需要长期在线、多设备切换的个人与小团队，团队版支持更多终端与定制路由。</p></div><div class=\"block\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对丢包与抖动敏感的对战与登录场景。请将游戏进程或相关域名走游戏策略组，避免全局模式占用不必要流量。</p><h3>差旅与多网络环境</h3><p>在校园网、酒店与公共 Wi-Fi 下，先更新订阅再选择延迟较低的节点。若当前网络限制 UDP，可在客户端切换传输方式后重试。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"block\"><h3>从官网完成订阅</h3><ol><li>在套餐对比中选择基础版、旗舰版或团队版，确认月付或年付价格。</li><li>完成购买后进入用户中心复制订阅链接，请妥善保存，勿公开传播。</li><li>按设备安装对应客户端，添加订阅并更新节点列表。</li><li>按场景选择代理模式：规则分流适合日常，全局适合个别无法识别的应用。</li></ol></div><div class=\"block\"><h3>客户端与节点策略</h3><p>桌面端可使用 Clash 系、V2RayN 等；移动端常用 Shadowrocket、Stash、Clash Meta 等。导入后建议开启自动更新订阅。流媒体走解锁节点，游戏走 IPLC 或低延迟专线，其余流量走常规优化线路，有助于把每月额度用在关键路径上。</p><p>同时在线设备数受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。超出时优先下线闲置终端。</p></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为 Eden 官网当前固定套餐。年付可降低平均月成本。旗舰版适合多数个人用户，强调流量、解锁与游戏线路；团队版面向多设备与定制路由。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#download\">前往官方下载</a></p></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#download\">前往官方下载</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#download\">前往官方下载</a></p></article></div><div class=\"ad\"><strong>官网提示：</strong> 年付套餐与当月流量重置规则以购买页确认信息为准。请仅通过 Eden 官方网站获取订阅与客户端说明，避免第三方转发导致的失效或安全风险。</div></section><section id=\"download\"><h2>客户端下载与导入</h2><div class=\"stagger reverse\"><div class=\"block\"><h3>多端官方下载指引</h3><p>Eden 不绑定单一闭源安装包，而是兼容主流开源与商店客户端，便于你在 Windows、macOS、Android 与 iOS 上使用同一套订阅。请从系统应用商店或项目官方发布页获取客户端，再回到本站用户中心粘贴订阅地址。</p><p>Windows / macOS：Clash Meta 内核图形客户端或 V2RayN。Android：Clash Meta for Android 等。iOS：Shadowrocket、Stash、Quantumult X 等需按商店政策获取。</p></div><div class=\"block\"><h3>导入后的检查清单</h3><ul><li>订阅更新成功，节点延迟测试可完成。</li><li>系统或应用代理权限已授予，尤其是 iOS 与 macOS。</li><li>规则模式已启用，避免所有流量无差别走代理。</li><li>流媒体与游戏分策略，必要时指定对应节点组。</li></ul><p>若更新失败，检查订阅是否过期、设备数是否超限，或更换网络后重试。更多步骤见下方 FAQ。</p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Eden 和普通 VPN 有什么区别？</summary><p>Eden 以机场订阅方式提供多节点与策略分流，适合同时需要流媒体解锁、游戏线路和日常浏览的用户。你在官网购买套餐后获得订阅链接，可在自选客户端中管理节点，而不是只能使用单一封闭 App。</p></details><details><summary>如何在官网完成客户端下载与配置？</summary><p>先在本页确认套餐并完成订阅，复制链接。再到各系统推荐的客户端来源安装软件，选择“从 URL 添加订阅”，更新节点后启用规则模式。Eden 官方网站只提供说明与套餐，不诱导安装来路不明的文件。</p></details><details><summary>流量如何计算，用完怎么办？</summary><p>套餐按自然月或购买周期重置额度：基础版 100GB、旗舰版 300GB、团队版 1000GB。仅代理流量计入。额度不足时可升级套餐或等待重置；请关闭无关应用的全局代理以节约配额。</p></details><details><summary>哪些设备可以同时在线？</summary><p>手机、电脑和平板均可，受套餐同时在线台数限制。同一账号的订阅可导入多台设备，但并发连接超过限制时可能被踢下线。团队版适合工作室或家庭共享。</p></details><details><summary>旗舰版的 IPLC 对游戏一定更好吗？</summary><p>IPLC 专线通常在跨运营商和高峰时段更稳，有利于降低抖动。实际体验仍取决于你的本地宽带与游戏服务器位置。建议在客户端中单独为游戏域名指定游戏节点组，并对比测试后再固定。</p></details><details><summary>是否支持退款或更换套餐？</summary><p>未产生有效使用且符合当期服务说明的订单，可通过工单申请处理。已使用流量的周期一般按规则折算或不予退还。升级套餐通常立即生效，详情以用户中心提示为准。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>广告合作：欢迎与 Eden 官网洽谈内容与渠道合作，相关展示以合规加速与下载指引为主。</p><p class=\"friends\">友情链接：<a href=\"#guide\">配置教程</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">官方下载</a><a href=\"#faq\">帮助中心</a><a href=\"#intro\">关于 Eden</a></p><p>© Eden 官方网站 · 机场订阅与 VPN 网络加速服务 · <a href=\"#\">canonical 首页</a></p></div></footer>",
+          "hash": "ffd683a75ebbab329ef6dc7db6c80c1aa107809582d54b3bc2df11a5be1daac0",
+          "seo": {
+            "title": "Eden 官方网站 - VPN 梯子网络加速与机场客户端下载",
+            "keywords": "Eden,Eden机场,Eden VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC,流媒体解锁",
+            "description": "Eden 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、原生流媒体与游戏加速，欢迎访问官网选购套餐并获取官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zovzxgc.cn",
+    "host": "p-40f98d2a5f.zovzxgc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "zovzxgc.cn",
+      "url": "https://zovzxgc.cn/",
+      "label": "TomLink",
+      "apex": "zovzxgc.cn",
+      "kind": null,
+      "identity": "xkrdrqttsd/page-dd81c7388eeb1bf529798a60"
+    },
+    {
+      "host": "bztuiguang.cn",
+      "url": "https://bztuiguang.cn/",
+      "label": "Eden",
+      "apex": "bztuiguang.cn",
+      "kind": null,
+      "identity": "uyd5qu/page-00271a190d1fb11fb9dbb2e1"
+    },
+    {
+      "host": "shadowrockettu.com",
+      "url": "https://shadowrockettu.com/",
+      "label": "Eden",
+      "apex": "shadowrockettu.com",
+      "kind": null,
+      "identity": "s38dcff6p/page-e23ffb94c024759ed0a1343a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "30b750d45f079406f43e59bbbe636864f45ed944e88507e6ec145619db864c60",
+    "sitemap.xml": "62b76393d91bf51a64c84b41d2eafe0913dd21dcaa684c30503944f67d9cf3d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "92decf552ac7113890ddc1bcfab57b370d10833191d9e71a6c07865aed82a20e",
+    "robots.txt": "530d1de31acd583c8f7f5a15c2f7a63661801c110204f2b1ee832085180bce4b",
+    "d78c713a2a39bc1d8989d9f77e5aa612.txt": "a506cded4d600eabc5cbba8dc567eb2e17db1173e70ea20c71af1ff3bc80fb9c"
+  },
+  "revision": "439ad9efea4218e93936f6da68f27080371c64bf19f356aa60c88b58f6c4db2c"
+}
